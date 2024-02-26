@@ -5,8 +5,7 @@
     }
   ],
   "settings": {
-    "editor.formatOnSave": true,
-    "rust-analyzer.linkedProjects": [],
+    "rust-analyzer.linkedProjects": ["exercise/idiomatic/Cargo.toml"],
     "rust-analyzer.check.command": "clippy"
   },
   "extensions": {
