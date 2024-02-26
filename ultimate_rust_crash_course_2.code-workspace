@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "rust-analyzer.linkedProjects": [],
+    "rust-analyzer.check.command": "clippy"
+  },
+  "extensions": {
+    "recommendations": [
+      "tamasfe.even-better-toml",
+      "rust-lang.rust-analyzer",
+      "1yib.rust-bundle",
+      "dustypomerleau.rust-syntax",
+      "lorenzopirro.rust-flash-snippets",
+      "serayuzgur.crates"
+    ]
+  }
+}
