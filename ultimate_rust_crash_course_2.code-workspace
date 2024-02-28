@@ -8,7 +8,8 @@
     "rust-analyzer.linkedProjects": [
       "exercise/idiomatic/Cargo.toml",
       "exercise/docs/Cargo.toml",
-      "exercise/closures_iterators/Cargo.toml"
+      "exercise/closures_iterators/Cargo.toml",
+      "exercise/traits/Cargo.toml"
     ],
     "rust-analyzer.check.command": "clippy"
   },
