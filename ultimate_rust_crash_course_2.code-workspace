@@ -9,7 +9,8 @@
       "exercise/idiomatic/Cargo.toml",
       "exercise/docs/Cargo.toml",
       "exercise/closures_iterators/Cargo.toml",
-      "exercise/traits/Cargo.toml"
+      "exercise/traits/Cargo.toml",
+      "exercise/errors/Cargo.toml"
     ],
     "rust-analyzer.check.command": "clippy"
   },
