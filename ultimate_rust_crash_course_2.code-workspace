@@ -12,7 +12,8 @@
       "exercise/traits/Cargo.toml",
       "exercise/errors/Cargo.toml",
       "exercise/testing/Cargo.toml",
-      "exercise/logging/Cargo.toml"
+      "exercise/logging/Cargo.toml",
+      "exercise/threads_channels/Cargo.toml"
     ],
     "rust-analyzer.check.command": "clippy"
   },
